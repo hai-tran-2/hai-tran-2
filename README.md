@@ -11,7 +11,7 @@
 <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 
 <h1>Operating Systems</h1>
-<a href="https://linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux"></a>
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux"></a>
 
 <!--
 **hai-tran-2/hai-tran-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
