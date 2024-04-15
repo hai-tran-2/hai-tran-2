@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p>My name is hai Tran, I'm a student at St.Mother Teresa HS</p>
 
-<h>Programming Languages that I know</h>
+<h1>Programming Languages that I know</h1>
 
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
@@ -13,6 +13,8 @@
 <h1>Operating Systems</h1>
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux"></a>
 
+<h1>Tool</h1>
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
 <!--
 **hai-tran-2/hai-tran-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
