@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>My name is hai Tran, I'm a student at St.Mother Teresa HS</p>
+<p>My name is Hai Tran, I'm a student at St.Mother Teresa HS</p>
 
 <h1>Programming Languages that I know</h1>
 
@@ -16,6 +16,7 @@
 <h1>Tool</h1>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="./images/download.png/
 
 
   <!--
