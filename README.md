@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://github.com/search?q=user%3AMr-Coxall+language%3Abash">
 
 <!--
 **hai-tran-2/hai-tran-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
