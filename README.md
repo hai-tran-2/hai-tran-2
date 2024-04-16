@@ -16,7 +16,7 @@
 <h1>Tool</h1>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.etsystatic.com%2F33269334%2Fr%2Fil%2Fc0beb2%2F3719088381%2Fil_570xN.3719088381_sco7.jpg&tbnid=arYpRoGB89gwqM&vet=12ahUKEwipr5roqseFAxWfK2IAHQFiAVEQMygGegQIARB2..i&imgrefurl=https%3A%2F%2Fwww.etsy.com%2Fca%2Flisting%2F1179714219%2Fsmiley-face-svg-happy-face-smile-cut&docid=eG1fhjHX3sHJ_M&w=570&h=570&q=happy%20face&ved=2ahUKEwipr5roqseFAxWfK2IAHQFiAVEQMygGegQIARB2&safe=active&ssui=on">
+<img src="https://computer-based-problem-solving.readthedocs.io/en/latest/_images/ComputerBasedProblemSolving.png" alt="My Online Textbook - Computer Based Problem Solving" width="240" border="10" />
 
 
   <!--
