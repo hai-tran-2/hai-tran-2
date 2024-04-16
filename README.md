@@ -15,7 +15,7 @@
 
 <h1>Tool</h1>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://computer-based-problem-solving.readthedocs.io/en/latest/_images/ComputerBasedProblemSolving.png" alt="My Online Textbook - Computer Based Problem Solving" width="240" border="10" />
+<img src="https://computer-based-problem-solving.readthedocs.io/en/latest/_images/ComputerBasedProblemSolving.png" width="240" border="10" />
   
   <!--
 **hai-tran-2/hai-tran-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
